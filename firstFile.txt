@@ -1,4 +1,5 @@
 Hello World!
+<<<<<<< HEAD
 
 
 test 1
@@ -15,3 +16,5 @@ test 4
 
 
 fdasfdasfaf
+=======
+>>>>>>> parent of 84fe3ee (Update firstFile.txt)
